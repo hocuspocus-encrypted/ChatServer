@@ -1,4 +1,4 @@
-# Assignment 02 - Web Chat Server
+## Chat Server
 ___
 
   ## Project Overview
